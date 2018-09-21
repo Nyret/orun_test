@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "569831318180",
+    "firebase_url": "https://oruntest-2a986.firebaseio.com",
+    "project_id": "oruntest-2a986",
+    "storage_bucket": "oruntest-2a986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569831318180:android:546e4c1a43b05e8f",
+        "android_client_info": {
+          "package_name": "com.example.oruntest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569831318180-9cc8f1p3f25shptde0v5a5m70k5e9o0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSyzW9rgUl5XuRNISE4Rk6YqhchJc6HwY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
